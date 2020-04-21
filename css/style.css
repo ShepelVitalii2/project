@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #f2fbfd;
+    background: url(https://blog.kniga.biz.ua/wp-content/uploads/2016/09/trevis3.jpg) 1% 20% no-repeat fixed;
+    
+    background-size: auto, auto, cover;
+    
+}
+li{
+    list-style: none;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+
+.header-container{
+    display: flex;
+    padding-bottom: 180px;
+}
+
+.book-image-container{
+    
+    margin-top: 60px;
+    margin-left: 100px;
+    opacity: 0.9;
+}
+
+.message-second-container{
+    display: column;
+}
+
+.start-message{
+    margin-left: 300px;
+    box-shadow:
+    inset 0 0 50px #000,
+    inset 0 0 50px rgb(186, 250, 12),
+    inset 0 0 50px rgb(179, 211, 63);
+    border-radius: 5px;
+    width:50%;
+    padding: 15px 0px;
+    text-align: center;
+    transition: all 0.5s ease;
+    
+    background-color: grey;
+}
+
+.message-1-container{
+    width: 700px;
+    padding: 20px;
+    margin-top: 80px;
+    margin-left: 100px;
+    font-size: 28px;
+    font-weight: 600;
+    text-shadow: 2px 6px 7px rgba(206,89,55,0.74);
+    
+}
+.grid{
+    
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+    font-size: 20px;
+
+}
+
+.main-menu-item-container{
+    color: #f2fbfd;
+}
+
+.section-introduction{
+    padding-bottom: 40px;
+}
+
+.introduction-title{
+    text-align: center;
+    font-weight: 600;
+    font-size: 42px;
+    
+}
+
+.horizontal-line{
+    border: 0;
+    box-shadow: 0 0 10px 1px #000000;
+}
+
+.introduction-text-first{
+    display: flex;
+    font-size: 20px;
+    
+    
+    
+}
+
+.introduction-text-1{
+    width: 600px;
+    margin-top: 40px;
+    margin-left: 40px;
+    padding: 40px;
+    background-color: rgba(53, 25, 16, 0.6);
+    color: #E0FFFF
+    
+}
+
+.introduction-text-2{
+    width: 600px;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 100px;
+    padding: 40px;
+    background-color: rgba(53, 25, 16, 0.6);
+    color: #E0FFFF
+}
+
+.introduction-text-second{
+    display: flex;
+    font-size: 20px;
+}
+
+.introduction-text-3{
+    width: 600px;
+    margin-top: 40px;
+    margin-left: 40px;
+    padding: 40px;
+    background-color: rgba(53, 25, 16, 0.6);
+    color: #E0FFFF
+}
+
+.introduction-text-4{
+    width: 600px;
+    margin-top: 40px;
+    margin-left: 100px;
+    padding: 40px;
+    background-color: rgba(53, 25, 16, 0.6);
+    color: #E0FFFF
+}
+
+.psy-setting-title{
+    text-align: center;
+    font-weight: 600;
+    font-size: 42px;
+    text-shadow: 2px 6px 7px rgba(206,89,55,0.74);
+}
+.psy-setting-background{
+    background-size: cover;
+    
+}
+
+.psy-settings-content{
+    display: flex;
+    padding: 40px;
+}
+.psy-setting-1{
+    font-weight: 600;
+    font-size: 28px;
+    text-shadow: 2px 6px 7px rgba(206,89,55,0.74);
+    margin-left: 40px;
+    
+}
+
+.psy-settings-text{
+    width: 275x;
+    margin-left: 20px;
+    padding: 40px;
+    background-color: rgba(53, 25, 16, 0.6);
+}
+
+
+
+.psy-settings-content-1{
+    display: flex;
+    padding: 40px;
+}
+
+.psy-settings-text-1{
+    width: 600px;
+    margin-left: 60px;
+    padding: 40px;
+    background-color: rgba(53, 25, 16, 0.6);
+}
+
+
+
+
+
