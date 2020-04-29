@@ -41,14 +41,14 @@ a{
 .start-message{
     margin-left: 300px;
     box-shadow:
-    inset 0 0 50px #000,
-    inset 0 0 50px rgb(186, 250, 12),
-    inset 0 0 50px rgb(179, 211, 63);
+    inset 0 0 50px rgb(161, 247, 3),
+    inset 0 0 50px rgb(66, 75, 43),
+    inset 0 0 50px rgb(70, 83, 40);
     border-radius: 5px;
     width:50%;
     padding: 15px 0px;
     text-align: center;
-    transition: all 0.5s ease;
+    
     
     background-color: grey;
 }
@@ -97,6 +97,7 @@ a{
 
 .introduction-text-first{
     display: flex;
+
     font-size: 20px;
     
     
@@ -152,10 +153,7 @@ a{
     font-size: 42px;
     text-shadow: 2px 6px 7px rgba(206,89,55,0.74);
 }
-.psy-setting-background{
-    background-size: cover;
-    
-}
+
 
 .psy-settings-content{
     display: flex;
